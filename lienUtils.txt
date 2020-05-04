@@ -3,3 +3,4 @@ https://github.com/anonbnr/HMIN232M_Project
 
 https://spacy.io/usage/spacy-101?fbclid=IwAR32pp2QgR5VP-yc2nfvhQ5ODqS1Iaqb-1te0UQZH2m5nVfvl_NyNkhuPJs#features
 https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
+https://stackabuse.com/text-classification-with-python-and-scikit-learn/
